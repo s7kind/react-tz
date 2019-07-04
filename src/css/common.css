@@ -1,0 +1,12 @@
+@import './reset.css';
+@import './fonst.css';
+@import "./variables.css";
+
+body {
+    font: 400 18px/1.5 var(--fontMain);
+    color: #434f5e;
+    background: rgba(17, 143, 254, 0.15);
+    padding-top: 140px;
+    width: 100%;
+    height: 100vh;
+}

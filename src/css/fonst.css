@@ -1,0 +1,36 @@
+/*Gotham Pro*/
+@font-face {
+    font-family: 'Gotham Pro';
+    src: url('./../fonts/GothamPro/Bold/GothamPro-Bold.eot');
+    src: url('./../fonts/GothamPro/Bold/GothamPro-Bold.eot') format('embedded-opentype'),
+    url('./../fonts/GothamPro/Bold/GothamPro-Bold.woff2') format('woff2'),
+    url('./../fonts/GothamPro/Bold/GothamPro-Bold.woff') format('woff'),
+    url('./../fonts/GothamPro/Bold/GothamPro-Bold.otf') format('opentype'),
+    url('./../fonts/GothamPro/Bold/GothamPro-Bold.svg') format('svg');
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Gotham Pro';
+    src: url('./../fonts/GothamPro/Regular/GothamPro-Regular.eot');
+    src: url('./../fonts/GothamPro/Regular/GothamPro-Regular.eot') format('embedded-opentype'),
+    url('./../fonts/GothamPro/Regular/GothamPro-Regular.woff2') format('woff2'),
+    url('./../fonts/GothamPro/Regular/GothamPro-Regular.woff') format('woff'),
+    url('./../fonts/GothamPro/Regular/GothamPro-Regular.ttf') format('truetype'),
+    url('./../fonts/GothamPro/Regular/GothamPro-Regular.svg') format('svg');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Gotham Pro';
+    src: url('./../fonts/GothamPro/Light/GothamPro-Light.eot');
+    src: url('./../fonts/GothamPro/Light/GothamPro-Light.eot') format('embedded-opentype'),
+    url('./../fonts/GothamPro/Light/GothamPro-Light.woff2') format('woff2'),
+    url('./../fonts/GothamPro/Light/GothamPro-Light.woff') format('woff'),
+    url('./../fonts/GothamPro/Light/GothamPro-Light.otf') format('opentype'),
+    url('./../fonts/GothamPro/Light/GothamPro-Light.svg') format('svg');
+    font-weight: 300;
+    font-style: normal;
+}
